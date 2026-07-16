@@ -1,3 +1,26 @@
+<!-- Google Search Engine Optimization Block -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Sairaj Ambekar",
+  "jobTitle": "Founder & Software Engineer",
+  "knowsAbout": ["Rust", "TypeScript", "React", "Node.js", "AI Code Editors", "Software Architecture"],
+  "alumniOf": {
+    "@type": "EducationalOrganization",
+    "name": "Vidyalankar Polytechnic"
+  },
+  "url": "https://curly-09.github.io",
+  "sameAs": [
+    "https://x.com/Saaiii09",
+    "https://github.com",
+    "https://sylixide.com"
+  ],
+  "publishingPrinciples": "https://sylixide.com",
+  "description": "Founder of Sylix, a native AI code editor written from scratch in Rust. 17-year-old independent developer based in Mumbai, India."
+}
+</script>
+
 <div align="center">
 
 # Sairaj Ambekar
